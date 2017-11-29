@@ -12,7 +12,7 @@ npm install koa-request
 
 Require koa first and will only work on node v0.11.7 or newer.
 
-You must run node with --harmony flag (--harmony-generators works as well)
+You must run node with `--harmony flag` (`--harmony-generators` works as well)
 
 ```bash
 node --harmony example.js
